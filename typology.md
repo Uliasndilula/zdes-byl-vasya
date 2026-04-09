@@ -70,11 +70,9 @@ This system describes the relationship between nature cycles, socionic progress 
 *   **Dec/Jan:** 10th/11th House (Capricorn/Aquarius) | Dialectic/Linear | Right Spiral.
 *   **February:** 12th House (Pisces) | Vortex + 3D | Left Spiral.
 *   **Features:** Peripherality, Collectivism, Aristocratism, Confederation, Humanitarian-Diligent values.
+
 ---
 
-# Seasonal Thinking Typology & Matrix of Cognition
-
-Система описывает взаимосвязь природных циклов, цветовых архетипов (основание-Color Seasonal Analysis) и соционических колец прогресса.
 ### 📊 Сводная таблица типологии
 
 
@@ -84,6 +82,13 @@ This system describes the relationship between nature cycles, socionic progress 
 | **Лето** | YANG | Бета | Правая: 4(+5) дом | Левая: 6 дом | Унитаризм, Сила |
 | **Осень** | YIN | Гамма | Правая: 7(+8) дом | Левая: 9 дом | Федерация, Прагматизм |
 | **Зима** | YIN | Дельта | Правая: 10(+11) дом | Левая: 12 дом | Конфедерация, Гуманизм |
+
+---
+
+# Seasonal Thinking Typology & Matrix of Cognition
+
+Система описывает взаимосвязь природных циклов, цветовых архетипов (основание-Color Seasonal Analysis) и соционических колец прогресса.
+
 
 ## 📊 Матрица соответствий
 
@@ -129,3 +134,33 @@ This system describes the relationship between nature cycles, socionic progress 
 | (Gamma) | 9 | Стрелец | **Юпитер** | **Левая (Yin)** |
 | **ЗИМА** | 10 (+11) | Козерог (+Водолей)| Сатурн (Сатурн) | Правая (Yang) |
 | (Delta) | 12 | Рыбы | **Юпитер** | **Левая (Yin)** |
+
+### 📊 Таблица 1: Психофизика и Цвет
+
+
+| Сезон | Дом | Цветотип | Темперамент (dual) | Мышление | Спираль |
+| :--- | :---: | :--- | :--- | :--- | :--- |
+| **ВЕСНА** | 1 (+2) | Light/True Spring | Sanguine + Melancholic | Linear + Dialectic | Правая (Yang) |
+| (Alpha) | 3 | Bright Spring | Choleric + Flegmatic | **Vortex + 3D** | Левая (Yin) |
+| **ЛЕТО** | 4 (+5) | Light/True Summer | Choleric + Flegmatic | Dialectic + Linear | Правая (Yang) |
+| (Beta) | 6 | Soft Summer | Sanguine + Melancholic | **Vortex + 3D** | Левая (Yin) |
+| **ОСЕНЬ** | 7 (+8) | Early/Mid Autumn | Sanguine + Melancholic | Linear + Dialectic | Правая (Yang) |
+| (Gamma) | 9 | Dark Autumn | Choleric + Flegmatic | **Vortex + 3D** | Левая (Yin) |
+| **ЗИМА** | 10 (+11) | Early/Mid Winter | Choleric + Flegmatic | Dialectic + Linear | Правая (Yang) |
+| (Delta) | 12 | Late Winter | Sanguine + Melancholic | **Vortex + 3D** | Левая (Yin) |
+
+---
+
+### 🪐 Таблица 2: Астрологический Септенер
+
+
+| Сезон | Дом | Знак Зодиака | Планета (Септенер) | Спираль |
+| :--- | :---: | :--- | :--- | :--- |
+| **ВЕСНА** | 1 (+2) | Овен (+Телец) | Марс (Венера) | Правая (Yang) |
+| (Alpha) | 3 | Близнецы | Меркурий | **Левая (Yin)** |
+| **ЛЕТО** | 4 (+5) | Рак (+Лев) | Луна (Солнце) | Правая (Yang) |
+| (Beta) | 6 | Дева | Меркурий | **Левая (Yin)** |
+| **ОСЕНЬ** | 7 (+8) | Весы (+Скорпион) | Венера (Марс) | Правая (Yang) |
+| (Gamma) | 9 | Стрелец | Юпитер | **Левая (Yin)** |
+| **ЗИМА** | 10 (+11) | Козерог (+Водолей)| Сатурн (Сатурн) | Правая (Yang) |
+| (Delta) | 12 | Рыбы | Юпитер | **Левая (Yin)** |

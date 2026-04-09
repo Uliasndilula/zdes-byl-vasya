@@ -7,8 +7,10 @@ format: Structured Knowledge Base
 # Seasonal Thinking Typology: Matrix of Human Cognition
 
 ![Генеральная схема взаимодействия систем](images/scheme.jpg)
-*Рис. 1: Карта интертипных отношений, спиралей и чакральных соответствий.*
+*Рис. 1: Карта интертипных отношений, спиралей и чакральных соответствий.* 
 
+ ---
+ 
 This system describes the relationship between nature cycles, socionic progress rings, and brain hemisphere function.
 
 ## 🌀 1. Spiral Direction Rule
@@ -96,8 +98,9 @@ This system describes the relationship between nature cycles, socionic progress 
 ## 📊 Матрица соответствий
 
 
-| Сезон | Дом (Спираль) | Цветотип | Темперамент (dual) | Мышление | Спираль |
-| :--- | :--- | :--- | :--- | :--- | :--- |
+
+| Сезон | Дом | Цветотип | Темперамент | Мышление | Спираль |
+| :--- | :---: | :--- | :--- | :--- | :--- |
 | **ВЕСНА** | 1 (+2) | Bright (Clear)/Warm (True) Spring | Sanguine + Melancholic | Linear + Dialectic | Правая (Yang) |
 | (Альфа) | 3 | Light Spring | Choleric + Flegmatic | **Vortex + 3D** | Левая (Yin) |
 | **ЛЕТО** | 4 (+5) | Light /Cool (True) Summer | Choleric + Flegmatic | Dialectic + Linear | Правая (Yang) |

@@ -10,6 +10,16 @@ format: Structured Knowledge Base
 *Рис. 1: Карта интертипных отношений, спиралей и чакральных соответствий.* 
 
  ---
+
+ ![Схема конфликтного взаимодействия систем](images/conflict_relations.jpg)
+*Рис. 2: Карта конфликтных интертипных отношений, спиралей и чакральных соответствий.* 
+
+ ---
+
+  ![Схема движения спиралей во времени и пространстве](images/time_space.jpg)
+*Рис. 3: Движение спиралей во времени и пространстве.* 
+
+ ---
  
 This system describes the relationship between nature cycles, socionic progress rings, and brain hemisphere function.
 

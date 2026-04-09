@@ -7,14 +7,14 @@
 
 | Сезон | Дом (Спираль) | Цветотип | Темперамент (dual) | Мышление | Спираль |
 | :--- | :--- | :--- | :--- | :--- | :--- |
-| **ВЕСНА** | 1 (+2) | Light/True Spring | Sanguine + Melancholic | Linear + Dialectic | Правая (Yang) |
-| (Альфа) | 3 | Bright Spring | Choleric + Flegmatic | **Vortex + 3D** | Левая (Yin) |
-| **ЛЕТО** | 4 (+5) | Light/True Summer | Choleric + Flegmatic | Dialectic + Linear | Правая (Yang) |
+| **ВЕСНА** | 1 (+2) | Bright (Clear)/Warm (True) Spring | Sanguine + Melancholic | Linear + Dialectic | Правая (Yang) |
+| (Альфа) | 3 | Light Spring | Choleric + Flegmatic | **Vortex + 3D** | Левая (Yin) |
+| **ЛЕТО** | 4 (+5) | Light /Cool (True) Summer | Choleric + Flegmatic | Dialectic + Linear | Правая (Yang) |
 | (Бета) | 6 | Soft Summer | Sanguine + Melancholic | **Vortex + 3D** | Левая (Yin) |
-| **ОСЕНЬ** | 7 (+8) | Early/Mid Autumn | Sanguine + Melancholic | Linear + Dialectic | Правая (Yang) |
-| (Гамма) | 9 | Dark Autumn | Choleric + Flegmatic | **Vortex + 3D** | Левая (Yin) |
-| **ЗИМА** | 10 (+11) | Early/Mid Winter | Choleric + Flegmatic | Dialectic + Linear | Правая (Yang) |
-| (Дельта) | 12 | Late Winter | Sanguine + Melancholic | **Vortex + 3D** | Левая (Yin) |
+| **ОСЕНЬ** | 7 (+8) | Soft/Warm (True) Autumn | Sanguine + Melancholic | Linear + Dialectic | Правая (Yang) |
+| (Гамма) | 9 | Dark (Deep) Autumn | Choleric + Flegmatic | **Vortex + 3D** | Левая (Yin) |
+| **ЗИМА** | 10 (+11) | Dark(Deep) Winter/Cool (True) Winter | Choleric + Flegmatic | Dialectic + Linear | Правая (Yang) |
+| (Дельта) | 12 | Bright (Clear) Winter | Sanguine + Melancholic | **Vortex + 3D** | Левая (Yin) |
 
 ---
 

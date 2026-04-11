@@ -53,9 +53,9 @@ graph TD
 
 | Месяц | Основной Морф | Доминанты |
 | :--- | :---: | :--- |
-| **Март** | <img src="./images/march.jpg" width="200"> | Высокая переносица, акцент на надбровных дугах. |
-| **Апрель** | <img src="./images/april.jpg" width="200"> | Широкий лоб, открытая архитектура. |
-| **Май** | <img src="./images/may_vortex.jpg" width="200"> | Плотность тканей лба, ментальная концентрация. |
+| **Март** | <img src="/images/march.jpg" width="200"> | Высокая переносица, акцент на надбровных дугах. |
+| **Апрель** | <img src="/images/april.jpg" width="200"> | Широкий лоб, открытая архитектура. |
+| **Май** | <img src="/images/may_vortex.jpg" width="200"> | Плотность тканей лба, ментальная концентрация. |
 
 ## ☀️ Лето: 2 Квадра (ЦЕНТР)
 > **Вектор Социума:** Грудная клетка / Руки
@@ -63,9 +63,9 @@ graph TD
 
 | Месяц | Вариант 1 | Вариант 2 | Доминанты |
 | :--- | :---: | :---: | :--- |
-| **Июнь** | <img src="./images/june_1.jpg" width="200"> | Выраженные скулы, активная мимика. |
-| **Июль** | <img src="./images/july.jpg" width="200"> | Широкая посадка глаз, контактность. |
-| **Август** | <img src="./images/august_vortex.jpg" width="200"> | <img src="./images/august_3d.jpg" width="200"> | Очерченный нос, вектор захвата пространства. |
+| **Июнь** | <img src="/images/june_1.jpg" width="200"> | Выраженные скулы, активная мимика. |
+| **Июль** | <img src="/images/july.jpg" width="200"> | Широкая посадка глаз, контактность. |
+| **Август** | <img src="/images/august_vortex.jpg" width="200"> | <img src="/images/august_3d.jpg" width="200"> | Очерченный нос, вектор захвата пространства. |
 
 ## 🍂 Осень: 3 Квадра (НИЗ)
 > **Вектор Ресурса:** Живот / Гениталии
@@ -73,9 +73,9 @@ graph TD
 
 | Месяц | Вариант 1 | Вариант 2 | Доминанты |
 | :--- | :---: | :---: | :--- |
-| **Сентябрь** | <img src="./images/september_1.jpg" width="200"> | <img src="./images/september_2.jpg" width="200"> | Тяжелая челюсть, устойчивость, опора на инстинкты. |
-| **Октябрь** | <img src="./images/october.jpg" width="200"> | <img src="./images/october_2.jpg" width="200"> | Плотность губ, фиксация на результате. |
-| **Ноябрь** | <img src="./images/november_vortex.jpg" width="200"> | <img src="./images/november_3d.jpg" width="200">| Пробивная мощь нижней трети, захват ресурса. |
+| **Сентябрь** | <img src="/images/september_1.jpg" width="200"> | <img src="/images/september_2.jpg" width="200"> | Тяжелая челюсть, устойчивость, опора на инстинкты. |
+| **Октябрь** | <img src="/images/october.jpg" width="200"> | <img src="/images/october_2.jpg" width="200"> | Плотность губ, фиксация на результате. |
+| **Ноябрь** | <img src="/images/november_vortex.jpg" width="200"> | <img src="/images/november_3d.jpg" width="200">| Пробивная мощь нижней трети, захват ресурса. |
 
 ## ❄️ Зима: 4 Квадра (ТЕНЬ)
 > **Вектор Тени:** Ступни / Шпионаж
@@ -84,9 +84,9 @@ graph TD
 
 | Месяц | Вариант 1 | Вариант 2 | Доминанты |
 | :--- | :---: | :---: | :--- |
-| **Декабрь** | <img src="./images/december_1.jpg" width="200"> | <img src="./images/december_2.jpg" width="200"> | Мягкость контуров, глубинная интуиция. |
-| **Январь** | <img src="./images/january.jpg" width="200"> | Эффект маски, архитектура как броня. |
-| **Февраль** | <img src="./images/february_vortex.jpg" width="200"> | <img src="./images/february3d_2.jpg" width="200"> | Адаптивность, размытость, мимикрия. |
+| **Декабрь** | <img src="/images/december_1.jpg" width="200"> | <img src="/images/december_2.jpg" width="200"> | Мягкость контуров, глубинная интуиция. |
+| **Январь** | <img src="/images/january.jpg" width="200"> | Эффект маски, архитектура как броня. |
+| **Февраль** | <img src="/images/february_vortex.jpg" width="200"> | <img src="/images/february3d_2.jpg" width="200"> | Адаптивность, размытость, мимикрия. |
 
 
 

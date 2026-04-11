@@ -74,7 +74,7 @@ graph TD
 | Месяц | Вариант 1 | Вариант 2 | Доминанты |
 | :--- | :---: | :---: | :--- |
 | **Сентябрь** | <img src="./images/september_1.jpg" width="200"> | <img src="./images/september_2.jpg" width="200"> | Тяжелая челюсть, устойчивость, опора на инстинкты. |
-| **Октябрь** | <img src="./images/october.jpg" width="200"> | Плотность губ, фиксация на результате. |
+| **Октябрь** | <img src="./images/october.jpg" width="200"> | <img src="./images/october_2.jpg" width="200"> | Плотность губ, фиксация на результате. |
 | **Ноябрь** | <img src="./images/november_vortex.jpg" width="200"> | <img src="./images/november_3d.jpg" width="200">| Пробивная мощь нижней трети, захват ресурса. |
 
 ## ❄️ Зима: 4 Квадра (ТЕНЬ)

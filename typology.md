@@ -167,7 +167,7 @@ This system describes the relationship between nature cycles, socionic progress 
 | **8** | Бальзак | **INTP** | Критик | Диалектическое |
 | **9** | Джек + Драйзер | **ENTJ + ISFJ** | Предприниматель + Хранитель | **Vortex + 3d (Involution)** |
 | **10** | Штирлиц | **ESTJ** | Администратор | Диалектическое (Evolution) |
-| **11** | Достоевский | **INFJ** | Гуманитарий | Линейное |
+| **11** | Достоевский | **INFJ** | Гуманист | Линейное |
 | **12** | Гексли + Габен | **ENFP + ISTP** | Советчик + Мастер | **Vortex + 3d (Involution)** |
 
 ---
